@@ -1,4 +1,4 @@
-=== Search & Replace ===
+=== Generate Markdown Readme ===
 Contributors: derpixler
 Tags: test
 Requires at least: 4.0
